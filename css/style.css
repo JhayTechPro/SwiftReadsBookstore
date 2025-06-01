@@ -1651,7 +1651,7 @@
 
             /* shop sub-head styling */
 
-            .shop-sub-head .col-two p{
+            .shop-sub-head .s-col-two p{
                 background: #fff;
                 border: solid 3px #a2d2ff;
                 width: 180px;
@@ -1661,15 +1661,15 @@
                 line-height: 40px;       
             }
 
-            .shop-sub-head .col-two .bi-caret-down-fill{
+            .shop-sub-head .s-col-two .bi-caret-down-fill{
                 color: #6A4C93;
             }
 
-            .shop-sub-head .col-two .dropdown-items{
+            .shop-sub-head .s-col-two .dropdown-items{
                 text-align: center;
             }
 
-            .shop-sub-head .col-two .dropdown-items:hover{
+            .shop-sub-head .s-col-two .dropdown-items:hover{
                 background: #6A4C93;
                 color: #fff;
             }
@@ -1719,7 +1719,7 @@
             font-size: 4em;  
         }
 
-       .products .col-one{
+       .products .p-col-one{
           background-color: #fff;
           border: solid 3px #eee;
           border-radius: 60px;
@@ -1733,7 +1733,7 @@
             top: 40px;
        }
 
-       .products .col-one a{
+       .products .p-col-one a{
           position: relative;
           left: -8px;
        }
@@ -1770,7 +1770,7 @@
        }
 
 
-       .products .col-two{
+       .products .p-col-two{
           background-color: #fff;
           border: solid 3px #eee;
           border-radius: 60px;
@@ -1778,7 +1778,7 @@
           width: 400px;
        }
 
-       .products .col-three{
+       .products .p-col-three{
             background-color: #fff;
             border: solid 3px #eee;
             border-radius: 60px;
@@ -1786,7 +1786,7 @@
             width: 400px;
        }
 
-       .products .col-four{
+       .products .p-col-four{
           background-color: #fff;
           border: solid 3px #eee;
           border-radius: 60px;
@@ -1794,12 +1794,12 @@
           width: 400px;
        }
 
-       .products .col-four .add-btn{
+       .products .p-col-four .add-btn{
           position: relative;
           top: 0px;
        }
 
-       .products .col-five, .col-six{
+       .products .p-col-five, .p-col-six{
           background-color: #fff;
           border: solid 3px #eee;
           border-radius: 60px;
@@ -3917,7 +3917,7 @@
 
              /* shop sub-head styling */
 
-            .shop-sub-head .col-two p{
+            .shop-sub-head .s-col-two p{
                 background: #fff;
                 border: solid 3px #a2d2ff;
                 width: 180px;
@@ -3927,15 +3927,15 @@
                 line-height: 40px;       
             }
 
-            .shop-sub-head .col-two .bi-caret-down-fill{
+            .shop-sub-head .s-col-two .bi-caret-down-fill{
                 color: #6A4C93;
             }
 
-            .shop-sub-head .col-two .dropdown-items{
+            .shop-sub-head .s-col-two .dropdown-items{
                 text-align: center;
             }
 
-            .shop-sub-head .col-two .dropdown-items:hover{
+            .shop-sub-head .s-col-two .dropdown-items:hover{
                 background: #6A4C93;
                 color: #fff;
             }
@@ -3984,7 +3984,7 @@
                 font-size: 4em;  
             }
 
-        .products .col-one{
+        .products .p-col-one{
             background-color: #fff;
             border: solid 3px #eee;
             border-radius: 60px;
@@ -3998,7 +3998,7 @@
                 top: 40px;
         }
 
-        .products .col-one a{
+        .products .p-col-one a{
             position: relative;
             left: -8px;
         }
@@ -4035,7 +4035,7 @@
         }
 
 
-        .products .col-two{
+        .products .p-col-two{
             background-color: #fff;
             border: solid 3px #eee;
             border-radius: 60px;
@@ -4043,7 +4043,7 @@
             width: 400px;
         }
 
-        .products .col-three{
+        .products .p-col-three{
                 background-color: #fff;
                 border: solid 3px #eee;
                 border-radius: 60px;
@@ -4051,7 +4051,7 @@
                 width: 400px;
         }
 
-        .products .col-four{
+        .products .p-col-four{
             background-color: #fff;
             border: solid 3px #eee;
             border-radius: 60px;
@@ -4059,12 +4059,12 @@
             width: 400px;
         }
 
-        .products .col-four .add-btn{
+        .products .p-col-four .add-btn{
             position: relative;
             top: 0px;
         }
 
-        .products .col-five, .col-six{
+        .products .p-col-five, .p-col-six{
             background-color: #fff;
             border: solid 3px #eee;
             border-radius: 60px;
@@ -4575,7 +4575,7 @@
                 top: 5px;
             }
 
-            .navbar .reg p{
+            .navbar .reg p{ 
                 text-align: center;
                 position: relative;
                 top: -25px;
@@ -6166,7 +6166,7 @@
 
              /* shop sub-head styling */
 
-            .shop-sub-head .col-two p{
+            .shop-sub-head .s-col-two p{
                 background: #fff;
                 border: solid 3px #a2d2ff;
                 width: 180px;
@@ -6176,15 +6176,15 @@
                 line-height: 40px;       
             }
 
-            .shop-sub-head .col-two .bi-caret-down-fill{
+            .shop-sub-head .s-col-two .bi-caret-down-fill{
                 color: #6A4C93;
             }
 
-            .shop-sub-head .col-two .dropdown-items{
+            .shop-sub-head .s-col-two .dropdown-items{
                 text-align: center;
             }
 
-            .shop-sub-head .col-two .dropdown-items:hover{
+            .shop-sub-head .s-col-two .dropdown-items:hover{
                 background: #6A4C93;
                 color: #fff;
             }
@@ -6233,7 +6233,7 @@
                 font-size: 4em;  
             }
 
-        .products .col-one{
+        .products .p-col-one{
             background-color: #fff;
             border: solid 3px #eee;
             border-radius: 60px;
@@ -6247,7 +6247,7 @@
                 top: 40px;
         }
 
-        .products .col-one a{
+        .products .p-col-one a{
             position: relative;
             left: -8px;
         }
@@ -6284,7 +6284,7 @@
         }
 
 
-        .products .col-two{
+        .products .p-col-two{
             background-color: #fff;
             border: solid 3px #eee;
             border-radius: 60px;
@@ -6292,7 +6292,7 @@
             width: 400px;
         }
 
-        .products .col-three{
+        .products .p-col-three{
                 background-color: #fff;
                 border: solid 3px #eee;
                 border-radius: 60px;
@@ -6300,7 +6300,7 @@
                 width: 400px;
         }
 
-        .products .col-four{
+        .products .p-col-four{
             background-color: #fff;
             border: solid 3px #eee;
             border-radius: 60px;
@@ -6308,12 +6308,12 @@
             width: 400px;
         }
 
-        .products .col-four .add-btn{
+        .products .p-col-four .add-btn{
             position: relative;
             top: 0px;
         }
 
-        .products .col-five, .col-six{
+        .products .p-col-five, .p-col-six{
             background-color: #fff;
             border: solid 3px #eee;
             border-radius: 60px;
@@ -8291,7 +8291,7 @@
 
              /* shop sub-head styling */
 
-            .shop-sub-head .col-two p{
+            .shop-sub-head .s-col-two p{
                 background: #fff;
                 border: solid 3px #a2d2ff;
                 width: 180px;
@@ -8301,20 +8301,20 @@
                 line-height: 40px;       
             }
 
-            .shop-sub-head .col-two .bi-caret-down-fill{
+            .shop-sub-head .s-col-two .bi-caret-down-fill{
                 color: #6A4C93;
             }
 
-            .shop-sub-head .col-two .dropdown-items{
+            .shop-sub-head .s-col-two .dropdown-items{
                 text-align: center;
             }
 
-            .shop-sub-head .col-two .dropdown-items:hover{
+            .shop-sub-head .s-col-two .dropdown-items:hover{
                 background: #6A4C93;
                 color: #fff;
             }
 
-            .shop-sub-head .col-two{
+            .shop-sub-head .s-col-two{
                 position: absolute;
                 top: 200px
             }
@@ -8368,7 +8368,7 @@
                 font-size: 4em;  
             }
 
-        .products .col-one{
+        .products .p-col-one{
             background-color: #fff;
             border: solid 3px #eee;
             border-radius: 60px;
@@ -8382,7 +8382,7 @@
                 top: 40px;
         }
 
-        .products .col-one a{
+        .products .p-col-one a{
             position: relative;
             left: -8px;
         }
@@ -8418,7 +8418,7 @@
         }
 
 
-        .products .col-two{
+        .products .p-col-two{
             background-color: #fff;
             border: solid 3px #eee;
             border-radius: 60px;
@@ -8426,7 +8426,7 @@
             width: 400px;
         }
 
-        .products .col-three{
+        .products .p-col-three{
                 background-color: #fff;
                 border: solid 3px #eee;
                 border-radius: 60px;
@@ -8435,7 +8435,7 @@
         }
 
 
-        .products .col-four{
+        .products .p-col-four{
             background-color: #fff;
             border: solid 3px #eee;
             border-radius: 60px;
@@ -8443,12 +8443,12 @@
             width: 400px;
         }
 
-        .products .col-four .add-btn{
+        .products .p-col-four .add-btn{
             position: relative;
             top: -20px;
         }
 
-        .products .col-five, .col-six{
+        .products .p-col-five, .p-col-six{
             background-color: #fff;
             border: solid 3px #eee;
             border-radius: 60px;
@@ -8456,7 +8456,7 @@
             width: 400px;
         }
 
-         .products .col-six .add-btn{
+         .products .p-col-six .add-btn{
             position: relative;
             top: 20px;
         }
